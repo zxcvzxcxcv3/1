@@ -1,0 +1,1 @@
+const util_alu6 = (d: any) => d;
